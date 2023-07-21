@@ -1,7 +1,6 @@
 .h1{ position: relative; text-align: center; padding-top: 20rem; padding-bottom: 30rem; text-shadow: 1pt;}
-.card{ position: relative; margin: 25px; padding-top: 15rem; padding-left: 9rem}
+.card{ position: relative; margin-top: 25px; padding-top: 15rem; padding-left: 9rem; height: 10em; width: 8em;}
 .vwo{ font-style: italic;}
-.tto{width: 17em;}
-.gty{ border: 20px; width: 30ex;}
-.nav-list-iem,.nav-list-iem-1  {width: 15em; height: 14em; margin-top: 5em;}
-.nav-list-iem-1{ margin-top: -5em; margin-left: 12em;}
+.tto{width: 1em;}
+.card-img-top{ margin-top: -25px; margin-right: -14em; height: 1em;} 
+.ccr{height: 4em; width: 6em;}
