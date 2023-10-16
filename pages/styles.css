@@ -1,5 +1,5 @@
 
-.nav-list-item{ flex-direction: column-reverse;}
+.nav-list-item{margin-block-start: 10px; }
 .vwo{ font-style: italic;}
 .tto{width: 1em;}
 .card-img-top{ margin-top: -25px; margin-right: -14em; height: 1em;} 
